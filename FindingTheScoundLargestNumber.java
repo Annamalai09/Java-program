@@ -3,6 +3,7 @@ class FindingTheScoundLargestNumber
 {
 	public static void main(String[] args)
 	{
+		int t=20;
 		Scanner dc = new Scanner(System.in);
 		int array[];
 		int n;
